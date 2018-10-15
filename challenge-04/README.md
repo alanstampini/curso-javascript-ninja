@@ -124,7 +124,7 @@ mostrar quantos assentos ainda podem ser ocupados, com a frase:
 "Só cabem mais [QUANTIDADE_DE_PESSOAS_QUE_CABEM] pessoas!"
 - Se couber somente mais uma pessoa, mostrar a palavra "pessoa" no retorno
 citado acima, no lugar de "pessoas".
-
+*/
 
 carro.pessoasSoma = function(p) {
 	var numPessoa = 'pessoas';		
